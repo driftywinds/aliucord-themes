@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "version": "1.8.6",
+        "author": "drifty#0217",
+        "name": "drifty's Sacred Sakura"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "https:\/\/i.ibb.co\/zJXfPfF\/doc-2022-02-09-15-29-32.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/906289447476269069\/906295319975833711\/trebuc.ttf"
+    },
+    "simple_colors": {
+        "background": -15461356,
+        "accent": -2129758,
+        "statusbar": -15724518,
+        "mention_highlight": -13296346
+    },
+    "colors": {
+        "primary_dark_300": -1447445,
+        "primary_dark_660": -15132391,
+        "primary_dark_700": -15263977,
+        "primary_dark_800": -16448251,
+        "primary_dark_200": -3092272,
+        "primary_700": -15461356,
+        "uikit_btn_bg_color_selector_green": -1212249,
+        "uikit_btn_bg_color_selector_red": -12124135,
+        "uikit_settings_item_text_color_dark": -4144702,
+        "link": -3049329
+    },
+    "drawable_tints": {
+        "drawable_overlay_channel_pressed_dark": -15527137,
+        "drawable_overlay_channels_selected_dark": -15527137
+    },
+    "raws": {}
+}
